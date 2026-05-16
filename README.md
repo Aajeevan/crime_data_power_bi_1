@@ -85,7 +85,7 @@ Visualize complex crime datasets effectively
 ### Overview Page
 ![Report 1](screenshots/crime_pb_1.png)
 
-### Movies Page
+### Country-Wise Crime Page
 ![Report 2](screenshots/crime_pb_2.png)
 
 ### Drill-through Page
