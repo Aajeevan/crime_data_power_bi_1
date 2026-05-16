@@ -1,6 +1,6 @@
 # crime_data_power_bi_1
 Crime analysis across European Countries using Power Bi
-Overview
+## Overview
 
 This project is an interactive Crime Analysis Dashboard built using Microsoft Power BI.
 The dashboard provides insights into crime patterns, crime distribution across countries, time-based crime trends, and resolution statistics through dynamic visualizations and drill-through analysis.
@@ -12,30 +12,30 @@ Analyze yearly and monthly crime trends
 Compare crime distribution by country
 Understand crime categories and frequencies
 Track crime resolution performance
-Dashboard Features
-📊 Key Metrics
+# Dashboard Features
+## 📊 Key Metrics
 Total Crimes Reported
 People Involved
 Crime Resolution Rate
 Dangerous Crime Time
 Low Crime Time
-📈 Visual Analysis
+# 📈 Visual Analysis
 Crime trends by year
 Monthly crime trend analysis
 Crime distribution by weekday
 Crime analysis by time range
 Top countries with highest crime rates
 Crime category comparison
-🔍 Drill-Through Insights
+# 🔍 Drill-Through Insights
 
-The dashboard includes a dedicated drill-through page for:
+## The dashboard includes a dedicated drill-through page for:
 
 Day-specific crime analysis
 Crime category exploration
 Time-based trend visualization
 Insights Generated
 
-Some major findings from the dashboard include:
+## Some major findings from the dashboard include:
 
 Peak crime activity occurs around 11:30 PM
 Lowest crime activity occurs around 11:00 AM
@@ -63,7 +63,7 @@ Day-specific crime analysis
 Detailed crime category breakdown
 Dataset Information
 
-The dataset contains information related to:
+## The dataset contains information related to:
 
 Crime categories
 Crime timing
@@ -73,9 +73,20 @@ Individuals involved
 Yearly and monthly crime records
 Project Objective
 
-The goal of this project is to use business intelligence techniques to:
+## The goal of this project is to use business intelligence techniques to:
 
 Detect crime patterns
 Improve decision-making
 Support public safety analysis
 Visualize complex crime datasets effectively
+
+## Dashboard Preview
+
+### Overview Page
+![Report 1](screenshots/crime_pb1.png)
+
+### Movies Page
+![Report 2](screenshots/crime_pb_2.png)
+
+### Drill-through Page
+![Details](screenshots/crime_pb_3.png)
