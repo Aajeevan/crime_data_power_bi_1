@@ -1,5 +1,5 @@
-# crime_data_power_bi_1
-Crime analysis across European Countries using Power Bi
+# Crime analysis across European Countries using Power Bi
+
 ## Overview
 
 This project is an interactive Crime Analysis Dashboard built using Microsoft Power BI.
