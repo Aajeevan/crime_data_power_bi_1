@@ -83,7 +83,7 @@ Visualize complex crime datasets effectively
 ## Dashboard Preview
 
 ### Overview Page
-![Report 1](screenshots/crime_pb1.png)
+![Report 1](screenshots/crime_pb_1.png)
 
 ### Movies Page
 ![Report 2](screenshots/crime_pb_2.png)
